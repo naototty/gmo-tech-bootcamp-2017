@@ -1,7 +1,7 @@
 # gmo-tech-bootcamp-2017
 gmo tech bootcamp 2017 hands-on
 
-## GMO Tech BootCamp 2017 「仮想化」事前リサーチと確認
+## GMO Tech BootCamp 2017 「仮想化技術」事前リサーチと確認
 
 以下アンケートURLの内容を、2017/6/1までに実施してください
 
